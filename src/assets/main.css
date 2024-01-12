@@ -1,0 +1,18 @@
+@import './base.css';
+
+.container{
+  height:100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 810px;
+  margin: 0 auto;
+  background-color:rgb(27, 25, 25);
+  border: 4px groove;
+  border-color: white;
+  margin-top: 20px;
+  color: white;
+  box-shadow: 5px, 10px, 20px, #888888;
+}
+

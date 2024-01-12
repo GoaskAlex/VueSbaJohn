@@ -1,0 +1,57 @@
+[
+{
+    "id":1,
+    "name":"Tigrex",
+    "gen":1,
+    "img":"https://i.pinimg.com/originals/9a/2a/81/9a2a8188d65260a199ba1aa94f728034.png",
+    "graphic":"https://assetsio.reedpopcdn.com/monster-hunter-world-iceborne-tigrex.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+    "weakness":"Thunder⭐⭐⭐, Dragon⭐⭐",
+    "habitat":"Snowy Mountains, Desert"
+
+},
+{
+    "id":2,
+    "name":"Rathian",
+    "gen":1,
+    "img":"https://pm1.aminoapps.com/8381/1949fa3c7e442953d01958cb002ab86d9acc2cffr1-1348-824v2_00.jpg",
+    "graphic":"https://monsterhunter.tools/img/projects/monsterhunter.tools/assets/img/highlights/mhr-monster-rathian-closeUp-battleAction-28_34-46_32-0_633-uxbngHBaUXw.jpg",
+    "weakness":"Thunder⭐⭐⭐, Dragon⭐⭐",
+    "habitat":"Forest, Desert, Wild Plains"
+
+},
+{
+    "id":3,
+    "name":"Rajang",
+    "gen":2,
+    "img":"https://www.monsterhunter.com/world-iceborne/topics/f-rajang/images/img01.png",
+    "graphic":"https://i.redd.it/vzlk23877vsb1.jpg",
+    "weakness":"Ice⭐⭐⭐",
+    "habitat":"Forest, Desert"
+
+},
+
+{
+    "id":4,
+    "name":"Zinogre",
+    "gen":4,
+    "img":"https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-zinogre_render_001.png",
+    "graphic":"https://monsterhunter.tools/img/projects/monsterhunter.tools/assets/img/highlights/mhr-monster-zinogre-gallery-lordOfLightning-42_43-41_18-323_323-TLFnVt8ZF3o.jpg",
+    "weakness":"Ice⭐⭐⭐",
+    "habitat":"Snowy Mountains, Desert, Forest"
+
+},
+{
+    "id":5,
+    "name":"Chameleos",
+    "gen":1,
+    "img":"https://i.pinimg.com/736x/59/06/18/5906189ecf4379055bccbed82056c6b1.jpg",
+    "graphic":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/11/risin-chameleos.jpg",
+    "weakness":"Thunder⭐⭐, Dragon⭐⭐,Fire (Head)⭐⭐⭐",
+    "habitat":"Snowy Mountains, Forest, Rainy Depths"
+    
+
+}
+
+
+
+]
